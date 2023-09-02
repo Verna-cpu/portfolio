@@ -1,11 +1,10 @@
 ---
 layout: archive
-permalink: /skills/
 title: "Skills"
+permalink: /skills/
 author_profile: true
 redirect_from: 
-  - /skills/
-  - /skills.html
+  - /skills
 ---
 
 ## Technical Skills
