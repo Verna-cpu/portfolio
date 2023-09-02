@@ -11,22 +11,23 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. in Computer Engineering, The George Washington University, Present
+* M.S. in Electrophysics, National Yang Ming Chiao Tung University
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2020 - 2021: Software Programmer
+  * President Securities Corporation (PSC), Information System Dept.
+  * Constructed databases and intranet web applications to meet company’s business needs
+  * Wrote computer programs to improve website functions’ flexibility and customization
+  * Collaborated with colleagues when adjusting old website functions and designing new ones
+  * Maintained and updated 5 websites regularly to ensure all websites worked properly
+  * Special Project: Upgraded financial computing methods to do expenses allocations calculations automatically
+    - Created about 10 data tables with about 10 stored procedures using SQL Syntax to calculate departments’ expenses allocations automatically
+    - Improved code so users could upload text files to a website, website would automatically analyze file names and content in the backend and store figures in the database
+    - Users could maintain expenses allocation ratios, access allocation results, and download results as a spreadsheet
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+ <!-- 
 Skills
 ======
 * Skill 1
@@ -57,3 +58,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->

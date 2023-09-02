@@ -10,3 +10,5 @@ redirect_from:
 ## Technical Skills
 
 * Database and Framework: SQL server, Microsoft.NET Framework
+* Languages: CSS, HTML, JavaScript, C, C++, C#
+* Integrate, Compile, Debug and Test: GitHub, Makefile, GCC, GNU, Virtual Machine
