@@ -27,7 +27,8 @@ Work experience
     - Improved code so users could upload text files to a website, website would automatically analyze file names and content in the backend and store figures in the database
     - Users could maintain expenses allocation ratios, access allocation results, and download results as a spreadsheet
 
- <!-- 
+ <div style="display:none">
+ 
 Skills
 ======
 * Skill 1
@@ -58,4 +59,5 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
--->
+
+<div>
