@@ -8,10 +8,10 @@ redirect_from:
 ---
 
 ## Database and Framework
-:   Microsoft SQL Server, Microsoft.NET Framework
+  Microsoft SQL Server, Microsoft.NET Framework
 
 ## Languages
-:   C, C++, C#, CSS, HTML, JavaScript
+  C, C++, C#, CSS, HTML, JavaScript
 
 ## Integrate, Compile, Debug and Test
-:   GitHub, Makefile, GCC, GNU, Virtual Machine
+  GitHub, Makefile, GCC, GNU, Virtual Machine

@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yang / Engineer & Developer"
+title                    : "Verna Yang / Engineer & Developer"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Verna"
 description              : &description "personal description"
 url                      : https://verna-cpu.github.io/portfolio # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Verna Yang"
   avatar           : "profile.png"
-  bio              : "First year master student in Computer Engineering"
+  bio              : "Hello! I'm Verna Yang, a first year master student in Computer Engineering"
   location         : "Washington, DC."
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
