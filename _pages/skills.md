@@ -1,14 +1,17 @@
 ---
-layout: archive
-title: "Skills"
+# layout: archive
+title: "Technical Skills"
 permalink: /skills/
 author_profile: true
 redirect_from: 
   - /skills
 ---
 
-## Technical Skills
+Database and Framework
+:   Microsoft SQL Server, Microsoft.NET Framework
 
-* Database and Framework: SQL server, Microsoft.NET Framework
-* Languages: CSS, HTML, JavaScript, C, C++, C#
-* Integrate, Compile, Debug and Test: GitHub, Makefile, GCC, GNU, Virtual Machine
+Languages
+:   C, C++, C#, CSS, HTML, JavaScript
+
+Integrate, Compile, Debug and Test
+:   GitHub, Makefile, GCC, GNU, Virtual Machine
