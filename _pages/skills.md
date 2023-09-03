@@ -7,11 +7,11 @@ redirect_from:
   - /skills
 ---
 
-Database and Framework
+## Database and Framework
 :   Microsoft SQL Server, Microsoft.NET Framework
 
-Languages
+## Languages
 :   C, C++, C#, CSS, HTML, JavaScript
 
-Integrate, Compile, Debug and Test
+## Integrate, Compile, Debug and Test
 :   GitHub, Makefile, GCC, GNU, Virtual Machine
