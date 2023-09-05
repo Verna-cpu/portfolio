@@ -7,16 +7,20 @@ redirect_from:
   - /skills
 ---
 
+<hr>
+
 ## Database and Framework
   Microsoft SQL Server, Microsoft.NET Framework
 
 ## Languages
-  C, C++, C#, CSS, HTML, JavaScript
+  C, C++, C#, Python, CSS, HTML, JavaScript
 
 ## Integrate, Compile, Debug and Test
   GitHub, Makefile, GCC, GNU, Virtual Machine
 
 # Technical Skills
+<hr>
+
 ## Algorithm
 Implemented amounts of algorithm theories like selection, greedy algorithm, divide and conquer algorithm, dynamic programming algorithm, recursive algorithm, etc., in C++. 
 ## Operating System
