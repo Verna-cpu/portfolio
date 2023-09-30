@@ -11,7 +11,7 @@ citation: ''
 
 
 Oral Presented in August 2019 in Colorado, USA.
-<br>
+ <br>
 Wei-Cih Yang, Zheng-Xuan Lo, Wan-Rong Lo, Chang-Hsun Huang, Ying-Hao Chu, Yi-Chia Chou. “Heteroepitaxial growth between GaN thin film and a flexible substrate” 
 
 
