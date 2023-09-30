@@ -24,7 +24,7 @@ redirect_from:
 # Technical Skills
 <hr>
 
-## High performnace computing
+## High performance computing
 
 ## Computer architecture
 
