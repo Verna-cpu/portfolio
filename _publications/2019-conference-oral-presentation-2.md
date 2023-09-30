@@ -9,6 +9,8 @@ paperurl: ''
 citation: ''
 ---
 
+Poster presented at January 2019 in Hsinchu, Taiwan.  
+<br>
 Wei-Cih Yang, Zheng-Xuan Lo, Wan-Rong Lo, Chang-Hsun Huang, Ying-Hao Chu, Yi-Chia Chou. “Two-Step Growth GaN Thin Film on Mica” 
-<br/>
-Poster presented at January 2019 in Hsinchu, Taiwan  
+
+

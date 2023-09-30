@@ -1,5 +1,5 @@
 ---
-title: "“Heteroepitaxial growth between GaN thin film and a flexible substrate"
+title: "Heteroepitaxial growth between GaN thin film and a flexible substrate"
 collection: publications
 permalink: /publications/2019-conference-oral-presentation-1
 excerpt: ''
@@ -9,7 +9,9 @@ paperurl: ''
 citation: ''
 ---
 
-Wei-Cih Yang, Zheng-Xuan Lo, Wan-Rong Lo, Chang-Hsun Huang, Ying-Hao Chu, Yi-Chia Chou. “Heteroepitaxial growth between GaN thin film and a flexible substrate” 
-<br/>
+
 Oral Presented in August 2019 in Colorado, USA.
+<br>
+Wei-Cih Yang, Zheng-Xuan Lo, Wan-Rong Lo, Chang-Hsun Huang, Ying-Hao Chu, Yi-Chia Chou. “Heteroepitaxial growth between GaN thin film and a flexible substrate” 
+
 
